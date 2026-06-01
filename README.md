@@ -1,5 +1,7 @@
 # 💫 About Me:
-HI,I am Shreyash Hulle (ENTC)<br>I am currently skill -up myself services like AWS,LINUX,and DEVOPS<br>
+HI,I am Shreyash Hulle (ENTC)<br>Ambitious Cloud & DevOps enthusiast with hands-on experience in AWS and foundational knowledge of automation
+and CI/CD pipelines. Skilled in Linux administration, cloud infrastructure, and DevOps tools. Strong problem-solving
+mindset with eagerness to learn and contribute to real-world projects.
 
 
 ## 🌐 Socials:
